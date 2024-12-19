@@ -1,0 +1,2239 @@
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/">
+	<V8Exch:Data>
+	<CatalogObject.Банки>
+			<Ref>5d24f9c4-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>24       </Code>
+			<Description>Ивановская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6f2a69ec-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406701</Code>
+			<Description>АО КИБ "ЕВРОАЛЬЯНС"</Description>
+			<КоррСчет>30101810800000000701</КоррСчет>
+			<Город>г. Иваново</Город>
+			<Адрес>улица Станко, дом 13</Адрес>
+			<Телефоны>(4932) 47-15-33</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d2505ba-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406608</Code>
+			<Description>ИВАНОВСКОЕ ОТДЕЛЕНИЕ N 8639 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810000000000608</КоррСчет>
+			<Город>г. Иваново</Город>
+			<Адрес>ул Лежневская, 159</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f9a9-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>78       </Code>
+			<Description>Ярославская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>69289e64-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888782</Code>
+			<Description>ЯРОСЛАВСКИЙ ФИЛИАЛ "БАНК СГБ"</Description>
+			<КоррСчет>30101810100000000782</КоррСчет>
+			<Город>Г. ЯРОСЛАВЛЬ</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>632208e4-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888760</Code>
+			<Description>ЯРОСЛАВСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</Description>
+			<КоррСчет>30101810300000000760</КоррСчет>
+			<Город>г. Ярославль</Город>
+			<Адрес>ул Республиканская, 16</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>PRMSRUMMYAB</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d25071f-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406791</Code>
+			<Description>ФИЛИАЛ АКБ "ЛЕГИОН" (АО) В Г.ИВАНОВО</Description>
+			<КоррСчет>30101810700000000791</КоррСчет>
+			<Город>Г. ИВАНОВО</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f906-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>45       </Code>
+			<Description>г Москва</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a47b-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525201</Code>
+			<Description>ПАО АКБ "АВАНГАРД"</Description>
+			<КоррСчет>30101810000000000201</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Большая Якиманка, д. 1</Адрес>
+			<Телефоны>(495) 234-23-24, (495) 737-73-73</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>AVJSRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a64c-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406801</Code>
+			<Description>ИВАНОВСКИЙ ФИЛИАЛ АО "НС БАНК"</Description>
+			<КоррСчет>30101810700000000801</КоррСчет>
+			<Город>Г. ИВАНОВО</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f99b-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>40       </Code>
+			<Description>г Санкт-Петербург</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>632206dd-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030653</Code>
+			<Description>СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810500000000653</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>ул Красного Текстильщика, 2</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SABRRU2P</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>a9df148a-3fe4-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406718</Code>
+			<Description>АО БАНК НБС</Description>
+			<КоррСчет>30101810000000000718</КоррСчет>
+			<Город>г. Иваново</Город>
+			<Адрес>улица Палехская, дом 2</Адрес>
+			<Телефоны>(4932) 59-11-54</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a0b9-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406707</Code>
+			<Description>КУ АКБ "АКЦИЯ" ОАО - ГК "АСВ"</Description>
+			<КоррСчет>30101810600000000707</КоррСчет>
+			<Город>г Москва</Город>
+			<Адрес>ул Высоцкого, 4</Адрес>
+			<Телефоны>(495)9612526</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>2d511175-4178-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030786</Code>
+			<Description>ФИЛИАЛ "САНКТ-ПЕТЕРБУРГСКИЙ" АО "АЛЬФА-БАНК"</Description>
+			<КоррСчет>30101810600000000786</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>ул Фурштатская, 40 лит А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24fa7a-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406738</Code>
+			<Description>КУ АО "Кранбанк" - ГК "АСВ"</Description>
+			<КоррСчет>30101810200000000738</КоррСчет>
+			<Город>г Москва</Город>
+			<Адрес>ул Высоцкого, 4</Адрес>
+			<Телефоны>(0932) 30-04-81, (0932) 30-32-35, (0932) 41-05-71, 41-30-45</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d250c74-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525225</Code>
+			<Description>ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810400000000225</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Вавилова, 19</Адрес>
+			<Телефоны>(495) 500-55-50, (495) 957-58-62</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SABRRUMM</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>2d511178-4178-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525823</Code>
+			<Description>БАНК ГПБ (АО)</Description>
+			<КоррСчет>30101810200000000823</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Наметкина, дом 16, корпус 1.</Адрес>
+			<Телефоны>(495) 913-74-74</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>GAZPRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63220595-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406772</Code>
+			<Description>ФАКБ "ИНВЕСТТОРГБАНК" (ПАО) "ВОЗНЕСЕНСКИЙ"</Description>
+			<КоррСчет>30101810800000000772</КоррСчет>
+			<Город>Г. ИВАНОВО</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f96c-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>22       </Code>
+			<Description>Нижегородская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>632204b0-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202705</Code>
+			<Description>ПАО "НБД-БАНК"</Description>
+			<КоррСчет>30101810400000000705</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>пл Горького, 6</Адрес>
+			<Телефоны>(831) 22-000-22, (831) 44-000-44</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>NBDBRU2NXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d250c4e-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525593</Code>
+			<Description>АО "АЛЬФА-БАНК"</Description>
+			<КоррСчет>30101810200000000593</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Каланчёвская, 27</Адрес>
+			<Телефоны>(495) 620-91-91</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>ALFARUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>e11604af-cbd6-11e5-a0d0-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525243</Code>
+			<Description>АО "ГЛОБЭКСБАНК"</Description>
+			<КоррСчет>30101810000000000243</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес>УЛ ЗЕМЛЯНОЙ ВАЛ, 59, СТР 2</Адрес>
+			<Телефоны>(495)7852222,(499)5140903</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>GLOBRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d25082a-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525700</Code>
+			<Description>АО "РАЙФФАЙЗЕНБАНК"</Description>
+			<КоррСчет>30101810200000000700</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Троицкая, дом 17, стр. 1</Адрес>
+			<Телефоны>(495) 721-91-00, 721-9900, 721-9901</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>RZBMRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a74b-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202603</Code>
+			<Description>ВОЛГО-ВЯТСКИЙ БАНК ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810900000000603</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>ул Октябрьская, 35</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SABRRUMMNA1</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>f7a8218e-05c0-11e5-807c-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030809</Code>
+			<Description>Ф-Л ПТР ПАО "ХАНТЫ-МАНСИЙСКИЙ БАНК ОТКРЫТИЕ"</Description>
+			<КоррСчет>30101810740300000809</КоррСчет>
+			<Город>Г. САНКТ-ПЕТЕРБУРГ</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63220d4f-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525986</Code>
+			<Description>КУ ОАО АКБ "ПРОБИЗНЕСБАНК" - ГК "АСВ"</Description>
+			<КоррСчет>30101810600000000986</КоррСчет>
+			<Город>г Москва</Город>
+			<Адрес>ул Высоцкого, 4</Адрес>
+			<Телефоны>(495)9612526</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a182-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525232</Code>
+			<Description>ПАО "МТС-БАНК"</Description>
+			<КоррСчет>30101810600000000232</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>пр-т Андропова, 18-1</Адрес>
+			<Телефоны>(495) 921-28-00</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>MBRDRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>69289b8d-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406705</Code>
+			<Description>КУ АО КБ "ИВАНОВО" - ГК "АСВ"</Description>
+			<КоррСчет>30101810000000000705</КоррСчет>
+			<Город>г Москва</Город>
+			<Адрес>ул Высоцкого, 4</Адрес>
+			<Телефоны>(4932) 30-55-34, (4932) 32-78-45</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>07163efd-540f-11eb-a2df-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>012406500</Code>
+			<Description>ОТДЕЛЕНИЕ ИВАНОВО БАНКА РОССИИ//УФК по Ивановской области</Description>
+			<КоррСчет>40102810645370000025</КоррСчет>
+			<Город>г. Иваново</Город>
+			<Адрес>пр. Строителей, 21</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>95280360-0246-11e7-ba72-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525256</Code>
+			<Description>ПАО РОСБАНК</Description>
+			<КоррСчет>30101810000000000256</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Маши Порываевой, 34</Адрес>
+			<Телефоны>(495) 789-88-77</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>RSBNRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>48b436d6-4cb3-11e6-be22-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525094</Code>
+			<Description>МОСКОВСКИЙ ФИЛИАЛ "БАНК СГБ"</Description>
+			<КоррСчет>30101810245250000094</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Садовая - Кудринская, д. 2/62, стр. 4</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>d8be52d2-ba3a-11e7-85c6-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202718</Code>
+			<Description>АО "САРОВБИЗНЕСБАНК"</Description>
+			<КоррСчет>30101810422020000718</КоррСчет>
+			<Город>г. Саров</Город>
+			<Адрес>ул Силкина, 13</Адрес>
+			<Телефоны>(831) 430-74-78</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>99181824-19be-11e7-bde9-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525682</Code>
+			<Description>МОСКОВСКИЙ ФИЛИАЛ ПАО КБ "ВОСТОЧНЫЙ"</Description>
+			<КоррСчет>30101810945250000682</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Гагаринский переулок, д. 7, корп. 2</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63220e28-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406773</Code>
+			<Description>ИВАНОВСКИЙ ФКБ "СЕВЕРГАЗБАНК"</Description>
+			<КоррСчет>30101810100000000773</КоррСчет>
+			<Город>Г. ИВАНОВО</Город>
+			<Адрес>, </Адрес>
+			<Телефоны />
+			<РучноеИзменение>2</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>bc4a8ee0-883f-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525174</Code>
+			<Description>ПАО "РГС Банк"</Description>
+			<КоррСчет>30101810945250000174</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Киевская, д.7, к. 1</Адрес>
+			<Телефоны>(495) 925-80-80</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>RUIDRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>bc2cb0f6-caa5-11e7-8642-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202837</Code>
+			<Description>Филиал Банка ВТБ (ПАО) в г. Нижнем Новгороде</Description>
+			<КоррСчет>30101810200000000837</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>ул Решетниковская, 4 ГСП 78</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2NIN</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a937-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525787</Code>
+			<Description>ПАО "БАНК УРАЛСИБ"</Description>
+			<КоррСчет>30101810100000000787</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Ефремова, 8</Адрес>
+			<Телефоны>(495) 723-77-76, (495) 723-77-77</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>AVTBRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5dfc0bb3-d6f6-11e6-86d3-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888001</Code>
+			<Description>ОТДЕЛЕНИЕ ЯРОСЛАВЛЬ БАНКА РОССИИ</Description>
+			<КоррСчет />
+			<Город>г. Ярославль</Город>
+			<Адрес>ул Комсомольская, 7</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>fbb38a9a-6ce7-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525384</Code>
+			<Description>АО "БИНБАНК ДИДЖИТАЛ"</Description>
+			<КоррСчет>30101810845250000384</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Котельническая набережная, д. 33, стр. 1, этаж 4</Адрес>
+			<Телефоны>(495)7876886</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>MPRIRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a06d-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525985</Code>
+			<Description>ПАО Банк "ФК Открытие"</Description>
+			<КоррСчет>30101810300000000985</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Летниковская, д. 2, стр. 4</Адрес>
+			<Телефоны>(495) 224-44-00</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>JSNMRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63221019-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406001</Code>
+			<Description>ОТДЕЛЕНИЕ ИВАНОВО БАНКА РОССИИ</Description>
+			<КоррСчет />
+			<Город>г. Иваново</Город>
+			<Адрес>ул Красной Армии, 10/1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>8df690e0-3679-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030704</Code>
+			<Description>Ф. ОПЕРУ БАНКА ВТБ (ПАО) В САНКТ-ПЕТЕРБУРГЕ</Description>
+			<КоррСчет>30101810200000000704</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>Дегтярный переулок, д. 11, лит.А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2NWR</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d2502cf-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525105</Code>
+			<Description>АО "КОММЕРЦБАНК (ЕВРАЗИЯ)"</Description>
+			<КоррСчет>30101810300000000105</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Кадашевская наб, 14/2</Адрес>
+			<Телефоны>(495) 797-48-00</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>COBARUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a8c4-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406780</Code>
+			<Description>ИВАНОВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</Description>
+			<КоррСчет>30101810300000000780</КоррСчет>
+			<Город>г. Иваново</Город>
+			<Адрес>пр-т Ленина, 21, стр 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>2c310c5e-a51d-11e4-befa-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525555</Code>
+			<Description>ПАО "ПРОМСВЯЗЬБАНК"</Description>
+			<КоррСчет>30101810400000000555</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Смирновская, 10, стр 22</Адрес>
+			<Телефоны>(495) 787-33-33</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>PRMSRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63220ddd-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525219</Code>
+			<Description>ОАО "БАНК МОСКВЫ"</Description>
+			<КоррСчет>30101810500000000219</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>MOSWRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>38af17cf-173f-11e6-b997-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525411</Code>
+			<Description>ФИЛИАЛ "ЦЕНТРАЛЬНЫЙ" БАНКА ВТБ (ПАО)</Description>
+			<КоррСчет>30101810145250000411</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Рождественка, 10/2, стр 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2MS2</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f959-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>20       </Code>
+			<Description>Воронежская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d250798-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f959-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042007835</Code>
+			<Description>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. ВОРОНЕЖЕ</Description>
+			<КоррСчет>30101810100000000835</КоррСчет>
+			<Город>г. Воронеж</Город>
+			<Адрес>пр-т Революции, 58</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2VRN</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ea7a1804-341d-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525600</Code>
+			<Description>АО "МИнБанк"</Description>
+			<КоррСчет>30101810300000000600</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Орджоникидзе, 5</Адрес>
+			<Телефоны>(495)740-00-74</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>MINNRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>a1cdef75-0951-11e7-a93c-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525220</Code>
+			<Description>ЦЕНТРАЛЬНЫЙ ФИЛИАЛ АБ "РОССИЯ"</Description>
+			<КоррСчет>30101810145250000220</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>п. Сосенское, пос. Газопровод, д.101, кор.5</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24fc1d-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f959-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042007738</Code>
+			<Description>ФИЛИАЛ № 3652 ВТБ 24 (ПАО)</Description>
+			<КоррСчет>30101810100000000738</КоррСчет>
+			<Город>Г. ВОРОНЕЖ</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>CBGURUMMVOR</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f917-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>17       </Code>
+			<Description>Владимирская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a013-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f917-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>041708602</Code>
+			<Description>ВЛАДИМИРСКОЕ ОТДЕЛЕНИЕ №8611 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810000000000602</КоррСчет>
+			<Город>г. Владимир</Город>
+			<Адрес>пр-т Ленина, 36</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>24bb7575-f7dd-11e5-a09e-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888728</Code>
+			<Description>ИКБР "ЯРИНТЕРБАНК" (ООО)</Description>
+			<КоррСчет>30101810300000000728</КоррСчет>
+			<Город>г. Ярославль</Город>
+			<Адрес>ул Собинова, 30</Адрес>
+			<Телефоны>(4852) 50-06-58</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6bfd1635-294f-11e6-b997-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525181</Code>
+			<Description>Банк "Возрождение" (ПАО)</Description>
+			<КоррСчет>30101810900000000181</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Лучников переулок, дом 7/4, строение 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>VBNKRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>f77ec8e6-7bfd-11e7-8d57-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525117</Code>
+			<Description>ПАО "БИНБАНК"</Description>
+			<КоррСчет>30101810245250000117</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес>КОТЕЛЬНИЧЕСКАЯ НАБ, 33, СТР 1</Адрес>
+			<Телефоны>(495)7979500</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>1c3bcc9d-601f-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>65       </Code>
+			<Description>СВЕРДЛОВСКАЯ ОБЛАСТЬ</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b308923a-ef26-11e5-a23d-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>1c3bcc9d-601f-11e5-afc8-002590a6a5a7</Parent>
+			<Code>046577909</Code>
+			<Description>УРАЛЬСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</Description>
+			<КоррСчет>30101810000000000909</КоррСчет>
+			<Город>г. Екатеринбург</Город>
+			<Адрес>пр-т Ленина, 20 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>69289c6e-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888670</Code>
+			<Description>СЕВЕРНЫЙ БАНК ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810500000000670</КоррСчет>
+			<Город>Г. ЯРОСЛАВЛЬ</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>SABRRUMMYA1</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928ab00-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044585184</Code>
+			<Description>КБ "ЮНИАСТРУМ БАНК" (ООО)</Description>
+			<КоррСчет>30101810600000000184</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63220457-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525976</Code>
+			<Description>АКБ "АБСОЛЮТ БАНК" (ПАО)</Description>
+			<КоррСчет>30101810500000000976</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Цветной б-р, 18</Адрес>
+			<Телефоны>(495) 777-71-71</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>ABSLRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6f2a6675-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525202</Code>
+			<Description>АО КБ "СИТИБАНК"</Description>
+			<КоррСчет>30101810300000000202</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Гашека, д. 8-10, стр. 1</Адрес>
+			<Телефоны>(495) 725-10-00, (495)725-67-00</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>CITIRUMXXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>c4156e08-a4e9-11e7-8d57-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525297</Code>
+			<Description>ФИЛИАЛ ЦЕНТРАЛЬНЫЙ ПАО БАНКА "ФК ОТКРЫТИЕ"</Description>
+			<КоррСчет>30101810945250000297</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Спартаковская, д. 5, стр. 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>RUDLRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>33894b10-59a7-11e8-b4d7-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>1c3bcc9d-601f-11e5-afc8-002590a6a5a7</Parent>
+			<Code>046577674</Code>
+			<Description>УРАЛЬСКИЙ БАНК ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810500000000674</КоррСчет>
+			<Город>г. Екатеринбург</Город>
+			<Адрес>ул Куйбышева, 67</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SABRRUMMEA1</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>d8647471-5a8b-11e9-a2d0-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>60       </Code>
+			<Description>Ростовская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>d8647472-5a8b-11e9-a2d0-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>d8647471-5a8b-11e9-a2d0-00155d224700</Parent>
+			<Code>046015999</Code>
+			<Description>ФИЛИАЛ БАНКА ВТБ (ПАО) В Г. РОСТОВЕ-НА-ДОНУ</Description>
+			<КоррСчет>30101810300000000999</КоррСчет>
+			<Город>г. Ростов-на-Дону</Город>
+			<Адрес>Ворошиловский пр-т, 62/284</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2RND</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d05a-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>004525988</Code>
+			<Description>ГУ БАНКА РОССИИ ПО ЦФО//УФК ПО Г. МОСКВЕ</Description>
+			<КоррСчет>40102810545370000003</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>3-я Рощинская ул, 3, стр 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>9ba8344c-8c27-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525659</Code>
+			<Description>ПАО "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК"</Description>
+			<КоррСчет>30101810745250000659</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Луков пер, 2, стр 1</Адрес>
+			<Телефоны>(495)777-48-88</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>MCRBRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24f9bf-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>34       </Code>
+			<Description>Костромская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>117677d6-7866-11e9-a2d1-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9bf-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>043469720</Code>
+			<Description>ООО "КОСТРОМАСЕЛЬКОМБАНК"</Description>
+			<КоррСчет>30101810200000000720</КоррСчет>
+			<Город>г. Кострома</Город>
+			<Адрес>ул Калиновская, 36</Адрес>
+			<Телефоны>(4942) 49-07-07</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>8fcc5d43-7ac2-11e9-a2d1-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202824</Code>
+			<Description>ФИЛИАЛ "НИЖЕГОРОДСКИЙ" АО "АЛЬФА-БАНК"</Description>
+			<КоррСчет>30101810200000000824</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>ул Белинского, 61</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>926df5cf-9684-11e6-aeb2-002590a6a5a7</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>50       </Code>
+			<Description>Новосибирская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>8fcc5d42-7ac2-11e9-a2d1-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>926df5cf-9684-11e6-aeb2-002590a6a5a7</Parent>
+			<Code>045004788</Code>
+			<Description>ФИЛИАЛ "СИБИРСКИЙ" БАНКА ВТБ (ПАО)</Description>
+			<КоррСчет>30101810850040000788</КоррСчет>
+			<Город>г. Новосибирск</Город>
+			<Адрес>ул Каменская, 30</Адрес>
+			<Телефоны>(383)2414701</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2NS2</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>a7d4c806-a39e-11e9-a2d3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>1c3bcc9d-601f-11e5-afc8-002590a6a5a7</Parent>
+			<Code>046577964</Code>
+			<Description>ФИЛИАЛ "ЕКАТЕРИНБУРГСКИЙ" АО "АЛЬФА-БАНК"</Description>
+			<КоррСчет>30101810100000000964</КоррСчет>
+			<Город>г. Екатеринбург</Город>
+			<Адрес>ул Максима Горького, 17</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>1e003c26-af68-11e9-a2d4-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f959-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042007681</Code>
+			<Description>ЦЕНТРАЛЬНО-ЧЕРНОЗЕМНЫЙ БАНК ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810600000000681</КоррСчет>
+			<Город>г. Воронеж</Город>
+			<Адрес>ул 9 Января, 28</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SABRRUMMVH1</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>f0994515-d627-11e5-a23c-002590a6a5a7</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>19       </Code>
+			<Description>ВОЛОГОДСКАЯ ОБЛАСТЬ</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>f0994516-d627-11e5-a23c-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>f0994515-d627-11e5-a23c-002590a6a5a7</Parent>
+			<Code>041909644</Code>
+			<Description>ВОЛОГОДСКОЕ ОТДЕЛЕНИЕ N8638 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810900000000644</КоррСчет>
+			<Город>г. Вологда</Город>
+			<Адрес>ул Предтеченская, 33</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d02c-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f917-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>011708377</Code>
+			<Description>ОТДЕЛЕНИЕ ВЛАДИМИР БАНКА РОССИИ//УФК по Владимирской области</Description>
+			<КоррСчет>40102810945370000020</КоррСчет>
+			<Город>г. Владимир</Город>
+			<Адрес>Октябрьский пр-т, 3</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b257acbc-5cbf-11eb-a2e0-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>004525987</Code>
+			<Description>ГУ БАНКА РОССИИ ПО ЦФО//УФК ПО МОСКОВСКОЙ ОБЛАСТИ</Description>
+			<КоррСчет>40102810845370000004</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Дербеневская, 5</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d058-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>017888102</Code>
+			<Description>ОТДЕЛЕНИЕ ЯРОСЛАВЛЬ БАНКА РОССИИ//УФК по Ярославской области</Description>
+			<КоррСчет>40102810245370000065</КоррСчет>
+			<Город>г. Ярославль</Город>
+			<Адрес>ул Полушкина Роща, 16, стр 7</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d034-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>012202102</Code>
+			<Description>ВОЛГО-ВЯТСКОЕ ГУ БАНКА РОССИИ//УФК по Нижегородской области</Description>
+			<КоррСчет>40102810745370000024</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>Кремль, к 1 а</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>422e6598-5ce7-11e9-a2d0-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525000</Code>
+			<Description>ГУ БАНКА РОССИИ ПО ЦФО</Description>
+			<КоррСчет />
+			<Город>г. Москва 35</Город>
+			<Адрес>ул Балчуг, 2</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>90eedf42-7903-11e8-b4d7-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525545</Code>
+			<Description>АО ЮНИКРЕДИТ БАНК</Description>
+			<КоррСчет>30101810300000000545</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Пречистенская наб, 9</Адрес>
+			<Телефоны>(495) 258-72-00, (495) 956-85-75, 258-7258, 258-7272</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>IMBKRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ed310bb4-f3c7-11e9-a2d6-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525097</Code>
+			<Description>ООО "АТБ" БАНК</Description>
+			<КоррСчет>30101810145250000097</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>1-я Магистральная улица, д. 13, стр.2</Адрес>
+			<Телефоны>(495) 730-51-15</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>ATBTRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ec168614-210a-11e8-a532-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f959-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042007855</Code>
+			<Description>ФИЛИАЛ № 3652 БАНКА ВТБ (ПАО)</Description>
+			<КоррСчет>30101810545250000855</КоррСчет>
+			<Город>г. Воронеж</Город>
+			<Адрес>ул Кольцовская, 31</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2VR3</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>013c13b5-1d72-11ea-a2d7-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>54       </Code>
+			<Description>Орловская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d050-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>013c13b5-1d72-11ea-a2d7-00155d224700</Parent>
+			<Code>015402901</Code>
+			<Description>ОТДЕЛЕНИЕ ОРЕЛ БАНКА РОССИИ//УФК по Орловской области</Description>
+			<КоррСчет>40102810545370000046</КоррСчет>
+			<Город>г. Орёл</Город>
+			<Адрес>ул Матвеева, 7</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d048-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9bf-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>013469126</Code>
+			<Description>ОТДЕЛЕНИЕ КОСТРОМА БАНКА РОССИИ//УФК ПО КОСТРОМСКОЙ ОБЛАСТИ</Description>
+			<КоррСчет>40102810945370000034</КоррСчет>
+			<Город>г. Кострома</Город>
+			<Адрес>ул Красноармейская, 8</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>3983e55f-3b53-11ea-a2da-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525408</Code>
+			<Description>АО "ПЕРВЫЙ ИНВЕСТИЦИОННЫЙ БАНК"</Description>
+			<КоррСчет>30101810900000000408</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Бескудниковский бульвар, дом 36, корпус 1</Адрес>
+			<Телефоны>(499) 400-09-99</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>FRIBRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>d3e0eb11-8834-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525187</Code>
+			<Description>БАНК ВТБ (ПАО)</Description>
+			<КоррСчет>30101810700000000187</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Пресненская наб. 12</Адрес>
+			<Телефоны>(495) 777-24-24, 8-800-200-77-99</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>c7d4eac5-e708-11e8-ab07-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525745</Code>
+			<Description>ФИЛИАЛ № 7701 БАНКА ВТБ (ПАО)</Description>
+			<КоррСчет>30101810345250000745</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Кузнецкий Мост, 17, стр 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VTBRRUM2MS3</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>766a5c4b-7eea-11ea-a2de-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525430</Code>
+			<Description>РФ АО "Россельхозбанк" - "ЦРМБ"</Description>
+			<КоррСчет>30101810045250000430</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>проезд Красногвардейский 1-й, дом 7, строен. 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ddd23df9-aa34-11ea-a2de-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>03       </Code>
+			<Description>Краснодарский край</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d02a-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>ddd23df9-aa34-11ea-a2de-00155d224700</Parent>
+			<Code>010349101</Code>
+			<Description>ЮЖНОЕ ГУ БАНКА РОССИИ//УФК по Краснодарскому краю</Description>
+			<КоррСчет>40102810945370000010</КоррСчет>
+			<Город>г. Краснодар</Город>
+			<Адрес>ул Карасунская, 155</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>1d372b97-f399-11e8-ab07-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525058</Code>
+			<Description>ФИЛИАЛ "БИЗНЕС" ПАО "СОВКОМБАНК"</Description>
+			<КоррСчет>30101810045250000058</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Краснопресненская набережная, д. 14, стр. 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>528a6caa-aed3-11ea-a2de-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>70       </Code>
+			<Description>Тульская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d056-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>528a6caa-aed3-11ea-a2de-00155d224700</Parent>
+			<Code>017003983</Code>
+			<Description>ОТДЕЛЕНИЕ ТУЛА БАНКА РОССИИ//УФК по Тульской области</Description>
+			<КоррСчет>40102810445370000059</КоррСчет>
+			<Город>г. Тула</Город>
+			<Адрес>ул Сойфера, 18</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d032-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f959-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>012007084</Code>
+			<Description>ОТДЕЛЕНИЕ ВОРОНЕЖ БАНКА РОССИИ//УФК по Воронежской области</Description>
+			<КоррСчет>40102810945370000023</КоррСчет>
+			<Город>г. Воронеж</Город>
+			<Адрес>ул Куцыгина, 15 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d052-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>d8647471-5a8b-11e9-a2d0-00155d224700</Parent>
+			<Code>016015102</Code>
+			<Description>ОТДЕЛЕНИЕ РОСТОВ-НА-ДОНУ БАНКА РОССИИ//УФК по Ростовской области</Description>
+			<КоррСчет>40102810845370000050</КоррСчет>
+			<Город>г. Ростов-на-Дону</Город>
+			<Адрес>пл Свободы, 7/2</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>9cf9a48e-283f-11e9-a2cc-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525360</Code>
+			<Description>Филиал "Корпоративный" ПАО "Совкомбанк"</Description>
+			<КоррСчет>30101810445250000360</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Вавилова, д. 24</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SOMRRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>f9e28f7b-c594-11ea-a2de-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>42       </Code>
+			<Description>Липецкая область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d04a-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>f9e28f7b-c594-11ea-a2de-00155d224700</Parent>
+			<Code>014206212</Code>
+			<Description>ОТДЕЛЕНИЕ ЛИПЕЦК БАНКА РОССИИ//УФК ПО ЛИПЕЦКОЙ ОБЛАСТИ</Description>
+			<КоррСчет>40102810945370000039</КоррСчет>
+			<Город>г. Липецк</Город>
+			<Адрес>ул Интернациональная, 5</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>bfc25ef8-cca7-11ea-a2de-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>68       </Code>
+			<Description>Тамбовская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d054-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>bfc25ef8-cca7-11ea-a2de-00155d224700</Parent>
+			<Code>016850200</Code>
+			<Description>ОТДЕЛЕНИЕ ТАМБОВ БАНКА РОССИИ//УФК по Тамбовской области</Description>
+			<КоррСчет>40102810645370000057</КоррСчет>
+			<Город>г. Тамбов</Город>
+			<Адрес>ул Карла Маркса, 132</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ebf4880b-dc70-11ea-a2de-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525514</Code>
+			<Description>АО АКБ "ЦЕНТРОКРЕДИТ"</Description>
+			<КоррСчет>30101810700000000514</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Пятницкая, 31/2, стр 1</Адрес>
+			<Телефоны>(495) 956-86-26</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>CKBBRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>385f5831-dd43-11ea-a2de-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>18       </Code>
+			<Description>Волгоградская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b955d030-9f5e-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>385f5831-dd43-11ea-a2de-00155d224700</Parent>
+			<Code>011806101</Code>
+			<Description>ОТДЕЛЕНИЕ ВОЛГОГРАД БАНКА РОССИИ//УФК по Волгоградской области</Description>
+			<КоррСчет>40102810445370000021</КоррСчет>
+			<Город>г. Волгоград</Город>
+			<Адрес>ул Коммунистическая, 28 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>72ec9178-f197-11ea-a2de-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>35       </Code>
+			<Description>РЕСПУБЛИКА КРЫМ</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>72ec9179-f197-11ea-a2de-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>72ec9178-f197-11ea-a2de-00155d224700</Parent>
+			<Code>043510607</Code>
+			<Description>РНКБ БАНК (ПАО)</Description>
+			<КоррСчет>30101810335100000607</КоррСчет>
+			<Город>г. Симферополь</Город>
+			<Адрес>улица Набережная имени 60-летия СССР, дом 34</Адрес>
+			<Телефоны>(495) 232-90-00, 8 (800) 234-27-27</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>abba8d9a-5ed2-11eb-a2e0-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030920</Code>
+			<Description>СТ-ПЕТЕРБУРГСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</Description>
+			<КоррСчет>30101810000000000920</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>ул Миллионная, 38А лит Б</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>PRMSRUMMSPB</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>24f4208b-6535-11eb-a2e1-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>01       </Code>
+			<Description>Алтайский край</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>24f4208c-6535-11eb-a2e1-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>24f4208b-6535-11eb-a2e1-00155d224700</Parent>
+			<Code>040173604</Code>
+			<Description>АЛТАЙСКОЕ ОТДЕЛЕНИЕ N8644 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810200000000604</КоррСчет>
+			<Город>г. Барнаул</Город>
+			<Адрес>Комсомольский пр-т, 106 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>94bb5f05-5283-11e8-b4d7-002590a6a5a7</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>29       </Code>
+			<Description>КАЛУЖСКАЯ ОБЛАСТЬ</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>94bb5f06-5283-11e8-b4d7-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>94bb5f05-5283-11e8-b4d7-002590a6a5a7</Parent>
+			<Code>042908612</Code>
+			<Description>КАЛУЖСКОЕ ОТДЕЛЕНИЕ N8608 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810100000000612</КоррСчет>
+			<Город>г. Калуга</Город>
+			<Адрес>ул Кирова, 21 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>8653895d-7d76-11eb-a2e1-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525999</Code>
+			<Description>ТОЧКА ПАО БАНКА "ФК ОТКРЫТИЕ"</Description>
+			<КоррСчет>30101810845250000999</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>улица Верхняя Радищевская, дом 2/1, строение 3</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>26038e72-a0d2-11eb-a2e3-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525984</Code>
+			<Description>АО БАНК "РАЗВИТИЕ-СТОЛИЦА"</Description>
+			<КоррСчет>30101810000000000984</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Нижний Сусальный переулок, дом 5, строение 15</Адрес>
+			<Телефоны>(495) 937-91-50</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>VIZIRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>1ff68f4e-f0f9-11eb-a2e4-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525092</Code>
+			<Description>МОСКОВСКИЙ ФИЛИАЛ АО КБ "МОДУЛЬБАНК"</Description>
+			<КоррСчет>30101810645250000092</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Новодмитровская, 2-1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ba4947af-a63a-11e6-aeb2-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525974</Code>
+			<Description>АО "ТИНЬКОФФ БАНК"</Description>
+			<КоррСчет>30101810145250000974</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Ул. 2-я Хуторская, д.38А, стр.26</Адрес>
+			<Телефоны>(495) 648-10-00</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>TICSRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>d562832f-64c1-11e9-a2d1-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>80       </Code>
+			<Description>республика Башкортостан</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>8ac5df6e-1cfc-11ec-a2e4-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>d562832f-64c1-11e9-a2d1-00155d224700</Parent>
+			<Code>048073770</Code>
+			<Description>ФИЛИАЛ ПАО "БАНК УРАЛСИБ" В Г.УФА</Description>
+			<КоррСчет>30101810600000000770</КоррСчет>
+			<Город>г. Уфа</Город>
+			<Адрес>ул Революционная, 41</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>fbf78f3b-c8f7-11e7-8642-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525267</Code>
+			<Description>ИНВЕСТТОРГБАНК АО</Description>
+			<КоррСчет>30101810645250000267</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Дубининская, 45</Адрес>
+			<Телефоны>+7 (495) 797-32-03, +7 (495) 797-32-15, 8 (800) 200-45-45</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>JSCVRUM2</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>97d6f2a8-7da3-11ec-a2eb-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525498</Code>
+			<Description>АО Банк "Национальный стандарт"</Description>
+			<КоррСчет>30101810045250000498</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>Партийный переулок, дом 1, корпус 57, строение 2,3</Адрес>
+			<Телефоны>(495) 664-73-44, (495) 725-59-27</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>CBNNRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>14990ef5-8fb8-11ec-a2eb-00155d224700</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>28       </Code>
+			<Description>Тверская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>14990ef6-8fb8-11ec-a2eb-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>14990ef5-8fb8-11ec-a2eb-00155d224700</Parent>
+			<Code>012809106</Code>
+			<Description>ОТДЕЛЕНИЕ ТВЕРЬ БАНКА РОССИИ//УФК по Тверской области</Description>
+			<КоррСчет>40102810545370000029</КоррСчет>
+			<Город>г. Тверь</Город>
+			<Адрес>Петербургское ш, 53 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>9fca4d37-4727-11e6-be22-002590a6a5a7</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>36       </Code>
+			<Description>Самарская область</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>dd792ed5-cd03-11ec-a2ec-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>9fca4d37-4727-11e6-be22-002590a6a5a7</Parent>
+			<Code>043601607</Code>
+			<Description>ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810200000000607</КоррСчет>
+			<Город>г. Самара</Город>
+			<Адрес>ул Ново-Садовая, 305</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>SABRRUMMSE1</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>26f33f6f-81d4-11e9-a2d1-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9bf-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>043469623</Code>
+			<Description>КОСТРОМСКОЕ ОТДЕЛЕНИЕ N 8640 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810200000000623</КоррСчет>
+			<Город>г. Кострома</Город>
+			<Адрес>ул Никитская, 33</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>3a0a4629-e172-11ec-a2ec-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>528a6caa-aed3-11ea-a2de-00155d224700</Parent>
+			<Code>047003608</Code>
+			<Description>ТУЛЬСКОЕ ОТДЕЛЕНИЕ N8604 ПАО СБЕРБАНК</Description>
+			<КоррСчет>30101810300000000608</КоррСчет>
+			<Город>г. Тула</Город>
+			<Адрес>Крестовоздвиженская пл, 1</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>bb24f468-e7de-11ec-a2ec-00155d224700</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>926df5cf-9684-11e6-aeb2-002590a6a5a7</Parent>
+			<Code>045004774</Code>
+			<Description>ФИЛИАЛ "НОВОСИБИРСКИЙ" АО "АЛЬФА-БАНК"</Description>
+			<КоррСчет>30101810600000000774</КоррСчет>
+			<Город>г. Новосибирск</Город>
+			<Адрес>ул Ленина, 52</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>3e9ebc30-1085-11e8-a532-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202803</Code>
+			<Description>ПРИВОЛЖСКИЙ Ф-Л ПАО "ПРОМСВЯЗЬБАНК"</Description>
+			<КоррСчет>30101810700000000803</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>ул Нестерова, 31</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>PRMSRUMMNNV</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ce8e4e3e-5d6f-11e3-b33b-902b347b120f</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406819</Code>
+			<Description>ФИЛИАЛ АО "РОСТ БАНК" В Г.ИВАНОВО</Description>
+			<КоррСчет>30101810224060000819</КоррСчет>
+			<Город>Г. ИВАНОВО</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a5a3-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406803</Code>
+			<Description>ФИЛИАЛ В Г.ИВАНОВО ОАО "МИНБ"</Description>
+			<КоррСчет>30101810300000000803</КоррСчет>
+			<Город>Г. ИВАНОВО</Город>
+			<Адрес>, </Адрес>
+			<Телефоны />
+			<РучноеИзменение>2</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>a1cdef6d-0951-11e7-a93c-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888918</Code>
+			<Description>РЫБИНСКИЙ ФИЛИАЛ ПАО БАНК "ВВБ"</Description>
+			<КоррСчет>30101810245250000918</КоррСчет>
+			<Город>Г. РЫБИНСК</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>deba79c2-0e05-11e7-a93c-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525460</Code>
+			<Description>АО "Экспобанк"</Description>
+			<КоррСчет>30101810345250000460</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул. Каланчевская, д.  29, стр.  2</Адрес>
+			<Телефоны>(495) 213-19-91</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>EXPNRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6928a5eb-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042202841</Code>
+			<Description>ПРИВОЛЖСКИЙ ФИЛИАЛ АО "БАНК ИНТЕЗА"</Description>
+			<КоррСчет>30101810500000000841</КоррСчет>
+			<Город>г. Нижний Новгород</Город>
+			<Адрес>ул Ульянова, 46</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ed485f07-40ad-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9a9-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>047888717</Code>
+			<Description>ЯРОСЛАВСКИЙ РФ АО "РОССЕЛЬХОЗБАНК"</Description>
+			<КоррСчет>30101810900000000717</КоррСчет>
+			<Город>г. Ярославль</Город>
+			<Адрес>ул Победы, 28 А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>1019a5bd-6286-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525484</Code>
+			<Description>КУ ПАО КБ "ЕВРОСИТИБАНК" - ГК "АСВ"</Description>
+			<КоррСчет>30101810745250000484</КоррСчет>
+			<Город>г Москва</Город>
+			<Адрес>ул Высоцкого, 4</Адрес>
+			<Телефоны>(495)9612526</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>ddf65a4a-5778-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030723</Code>
+			<Description>Ф-Л "СЕВЕРНАЯ СТОЛИЦА" АО "РАЙФФАЙЗЕНБАНК"</Description>
+			<КоррСчет>30101810100000000723</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>наб р.Мойки, 36</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>b42d8f24-5b68-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044583272</Code>
+			<Description>МОСКОВСКИЙ ФИЛИАЛ ПАО РОСБАНК</Description>
+			<КоррСчет>30101810000000000272</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>e862fe60-5843-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525495</Code>
+			<Description>ФИЛИАЛ ПАО "БИНБАНК" В Г.МОСКВА</Description>
+			<КоррСчет>30101810900000000495</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>MOBWRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>c37f061e-6b43-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f96c-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042204721</Code>
+			<Description>ПАО "САРОВБИЗНЕСБАНК"</Description>
+			<КоррСчет>30101810200000000721</КоррСчет>
+			<Город>Г. САРОВ</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6f21177f-6383-11e6-b96b-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525716</Code>
+			<Description>ВТБ 24 (ПАО)</Description>
+			<КоррСчет>30101810100000000716</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>CBGURUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24fb6c-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f959-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042007730</Code>
+			<Description>ВФ ПАО "БИНБАНК"</Description>
+			<КоррСчет>30101810700000000730</КоррСчет>
+			<Город>Г. ВОРОНЕЖ</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6ac90d3a-4755-11e7-8d57-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525836</Code>
+			<Description>АКБ "РОСЕВРОБАНК" (АО)</Description>
+			<КоррСчет>30101810445250000836</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес>УЛ ВАВИЛОВА, 24</Адрес>
+			<Телефоны>(495)7771111</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>COMKRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>e1d2ccca-2ccb-11e8-a532-002590a6a5a7</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>05       </Code>
+			<Description>ПРИМОРСКИЙ КРАЙ</Description>
+			<РучноеИзменение>0</РучноеИзменение>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>e1d2cccb-2ccb-11e8-a532-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>e1d2ccca-2ccb-11e8-a532-002590a6a5a7</Parent>
+			<Code>040507803</Code>
+			<Description>ПАО СКБ ПРИМОРЬЯ "ПРИМСОЦБАНК"</Description>
+			<КоррСчет>30101810200000000803</КоррСчет>
+			<Город>г. Владивосток</Город>
+			<Адрес>Партизанский пр-т, 44</Адрес>
+			<Телефоны>(423) 242-42-42</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>PRMTRU8VXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>63220ea2-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030827</Code>
+			<Description>Ф-Л БАНКА ГПБ (АО) "СЕВЕРО-ЗАПАДНЫЙ"</Description>
+			<КоррСчет>30101810200000000827</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>ул Лафонская, 3 лит А</Адрес>
+			<Телефоны />
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>GAZPRUMM015</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5e18ff7b-1683-11e6-b997-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f99b-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044030754</Code>
+			<Description>ПАО "ЭНЕРГОМАШБАНК"</Description>
+			<КоррСчет>30101810700000000754</КоррСчет>
+			<Город>г. Санкт-Петербург</Город>
+			<Адрес>ул Петрозаводская, 11 лит А</Адрес>
+			<Телефоны>(812) 303-89-00</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>ENEBRU2PXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>46f18791-0136-11e6-a09e-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044583108</Code>
+			<Description>МОСКОВСКИЙ ФИЛИАЛ "БАНК СГБ"</Description>
+			<КоррСчет>30101810200000000108</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5df75e61-3eaf-11e6-b997-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525348</Code>
+			<Description>АКБ "ЛАНТА-БАНК" (АО)</Description>
+			<КоррСчет>30101810400000000348</КоррСчет>
+			<Город>г. Москва</Город>
+			<Адрес>ул Новокузнецкая, 9, стр 2</Адрес>
+			<Телефоны>(495) 957-00-00</Телефоны>
+			<РучноеИзменение>0</РучноеИзменение>
+			<СВИФТБИК>COLKRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>9fca4d38-4727-11e6-be22-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>9fca4d37-4727-11e6-be22-002590a6a5a7</Parent>
+			<Code>043602955</Code>
+			<Description>ФИЛИАЛ N 6318 ВТБ 24 (ПАО)</Description>
+			<КоррСчет>30101810700000000955</КоррСчет>
+			<Город>Г. САМАРА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>CBGURUMMSAM</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>c7c76891-3a65-11e5-afc8-002590a6a5a7</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044525205</Code>
+			<Description>ПАО "БИНБАНК"</Description>
+			<КоррСчет>30101810200000000205</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>BINORUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d250a7a-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044585250</Code>
+			<Description>АКБ "ВПБ" (ЗАО)</Description>
+			<КоррСчет>30101810000000000250</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6f2a6955-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f9c4-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>042406792</Code>
+			<Description>Ярославский ФИЛИАЛ ОАО АКБ"РОСБАНК"</Description>
+			<КоррСчет>30101810000000000792</КоррСчет>
+			<Город>Г. Ярославль</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>2</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>6322129f-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>044583297</Code>
+			<Description>ПАО "ХАНТЫ-МАНСИЙСКИЙ БАНК ОТКРЫТИЕ"</Description>
+			<КоррСчет>30101810700000000297</КоррСчет>
+			<Город>Г. МОСКВА</Город>
+			<Адрес />
+			<Телефоны />
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК>RUDLRUMMXXX</СВИФТБИК>
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d250269-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f917-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>041708761</Code>
+			<Description>Ф-Л БАНКА "ТРАСТ" (ПАО) В Г. ВЛАДИМИР</Description>
+			<КоррСчет>30101810200000000761</КоррСчет>
+			<Город>Г. ВЛАДИМИР</Город>
+			<Адрес>УЛ МИРА, 34</Адрес>
+			<Телефоны>(4922)470470</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		<CatalogObject.Банки>
+			<Ref>5d24ff98-cb30-11e1-b131-001e5848397d</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>5d24f906-cb30-11e1-b131-001e5848397d</Parent>
+			<Code>043469714</Code>
+			<Description>КУ ООО КБ "АКСОНБАНК" - ГК "АСВ"</Description>
+			<КоррСчет>30101810300000000714</КоррСчет>
+			<Город>г Москва</Город>
+			<Адрес>ул Высоцкого, 4</Адрес>
+			<Телефоны>(4942)355544</Телефоны>
+			<РучноеИзменение>3</РучноеИзменение>
+			<СВИФТБИК />
+			<Страна>b7c468f5-2fa5-11e5-afc8-002590a6a5a7</Страна>
+		</CatalogObject.Банки>
+		</V8Exch:Data>
+</V8Exch:_1CV8DtUD>

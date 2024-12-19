@@ -1,0 +1,21 @@
+﻿CatalogObject.Банки
+# CatalogObject.БанковскиеСчета - зависает
+CatalogObject.Валюты
+CatalogObject.ВидыКонтактнойИнформации
+CatalogObject.ВидыНоменклатуры
+# CatalogObject.ДоговорыКонтрагентов
+CatalogObject.Должности
+CatalogObject.ДополнительныеУсловия
+CatalogObject.КлассификаторЕдиницИзмерения
+# CatalogObject.КонтактныеЛица - зависает
+# CatalogObject.Контрагенты
+# CatalogObject.Номенклатура         -- ошибка при загрузке в 1с
+CatalogObject.НоменклатурныеГруппы
+CatalogObject.ОбъектыРекламы
+# CatalogObject.Организации   -- здесь появляется ошибка при сохранении конечного xml файла
+CatalogObject.ПодразделенияОрганизаций
+CatalogObject.Пользователи
+CatalogObject.РегистрацииВНалоговомОргане
+CatalogObject.СтраныМира
+CatalogObject.ТипыЦенНоменклатуры
+# CatalogObject.ФизическиеЛица   -- здесь появляется ошибка при сохранении конечного xml файла

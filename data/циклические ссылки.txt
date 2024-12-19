@@ -1,0 +1,7 @@
+'CatalogObject.БанковскиеСчета', 1  ['CatalogObject.Контрагенты']
+'CatalogObject.РегистрацииВНалоговомОргане', 17 ['CatalogObject.Организации']
+'CatalogObject.ДоговорыКонтрагентов', 5
+'CatalogObject.ФизическиеЛица', 20 ['CatalogObject.БанковскиеСчета']
+'CatalogObject.Организации', 14 ['CatalogObject.БанковскиеСчета', 'CatalogObject.РегистрацииВНалоговомОргане']
+'CatalogObject.Контрагенты', 10 ['CatalogObject.БанковскиеСчета']
+'CatalogObject.КонтактныеЛица' 9
